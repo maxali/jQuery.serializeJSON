@@ -1,4 +1,4 @@
-# jQuery.serializeJSON
+# jQuery.toJSON
 Serialize form to JSON
 
 
